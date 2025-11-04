@@ -4,6 +4,7 @@ Program ini dibuat untuk membantu perusahaan ekspedisi menghitung total biaya pe
 - Berat paket (kg)
 - Jarak pengiriman (km)
 - Volume paket (cm³), yang dihitung dari panjang × lebar × tinggi
+
 Ada dua jenis biaya yang dikenakan:
 1.Biaya per kilogram tergantung jarak:
  - Jika jarak ≤ 10 km → Rp 4.250 per kg
