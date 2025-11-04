@@ -1,5 +1,6 @@
 # LatihanUKLmudah
 🧠 Deskripsi Program
+
 Program ini dibuat untuk membantu perusahaan ekspedisi menghitung total biaya pengiriman sebuah paket. Biaya ditentukan berdasarkan tiga hal utama:
 - Berat paket (kg)
 - Jarak pengiriman (km)
@@ -15,6 +16,7 @@ Pengguna cukup memasukkan data berat, jarak, dan dimensi paket. Program akan men
 Program ini berguna untuk mempercepat proses perhitungan dan menghindari kesalahan manual dalam menentukan biaya kirim.
 
 ⚙️ Cara Kerja Program
+
 1.Pengguna memasukkan data paket
  Program akan meminta input berupa:
    - Berat paket (dalam kilogram)
