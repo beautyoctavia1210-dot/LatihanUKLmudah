@@ -39,6 +39,7 @@ public class LatihanUKLmudah {
         biaya += 50000;
         }
         
+        System.out.println("Volume Barang yang dikirim: "+ Volume + "cm^3 " );
         System.out.println("Total Biaya Pengiriman : Rp."+biaya);
         
         System.out.println("");
